@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading Journal 1 - The Bell Jar by Sylvia Plath
+title: The Bell Jar by Sylvia Plath
 ---
 
 _Side note: contains spoilers!_
