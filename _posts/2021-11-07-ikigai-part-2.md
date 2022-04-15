@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading Journal 2 - Ikigai by Hector Garcia and Francesc Miralles (part 2)
+title: Ikigai by Hector Garcia and Francesc Miralles (part 2)
 ---
 
 *This is a continuation from part 1, where I compiled all my takeaways from the book Ikigai. In this post, I'll be sharing more of my personal input after reading the book.*
